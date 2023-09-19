@@ -796,12 +796,12 @@
 							</Password>
 						</LocalAccount>
 						<LocalAccount>
-							<DisplayName>tommi</DisplayName>
+							<DisplayName>user</DisplayName>
 							<Group>Administrators</Group>
-							<Name>tommi</Name>
+							<Name>user</Name>
 							<Password>
-								<PlainText>false</PlainText>
-								<Value>MgA3ADAANwA2ADYANwBhAFAAYQBzAHMAdwBvAHIAZAA=</Value>
+								<PlainText>true</PlainText>
+								<Value></Value>
 							</Password>
 						</LocalAccount>
 					</LocalAccounts>
